@@ -1,1 +1,2 @@
 -Dcats.effect.stackTracingMode=full
+-Xmx4G
